@@ -10,7 +10,7 @@ namespace Crypto
 {
     internal class Program
     {
-        private static string API_KEY = "e3738b41-b458-46c1-8d2e-4de15f09e11a";
+        private static string API_KEY = "";
 
         public static void Main(string[] args)
         {
